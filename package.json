@@ -165,9 +165,7 @@
     "dicer": "^0.3.0",
     "jsonwebtoken": "^8.5.1",
     "jwks-rsa": "^2.0.2",
-    "node-forge": "^1.0.0"
-  },
-  "optionalDependencies": {
+    "node-forge": "^1.0.0",
     "@google-cloud/firestore": "https://github.com/sirkrisp/nodejs-firestore.git",
     "@google-cloud/storage": "^5.3.0"
   },
